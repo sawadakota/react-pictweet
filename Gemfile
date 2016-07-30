@@ -47,3 +47,5 @@ group :development, :test do
   gem 'kaminari'
   gem 'devise'
 end
+
+gem 'react-rails', '~> 1.0'
